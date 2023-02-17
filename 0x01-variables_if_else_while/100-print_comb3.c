@@ -4,12 +4,6 @@
 /**
  * main - entry
  *
- * Return: Always 0
- * main - ntry
- *
- * Return: always 0
- * main - ntry
- *
  * Return: always 0
  */
 int main(void)
