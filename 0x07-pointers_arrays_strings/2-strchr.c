@@ -2,7 +2,7 @@
 /**
  * _strchr - entry point
  * @s: input
- * c: input
+ * @c: input
  * Return: always 0(suceess)
  */
 char *_strchr(char *s, char c)
